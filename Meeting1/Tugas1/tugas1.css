@@ -1,0 +1,31 @@
+.header{ 
+    font-size: 200px;
+    color: white;
+    background-color: orangered;
+    
+}
+
+
+
+.intro{
+    color:black;
+    background-color: greenyellow;
+    
+}
+
+
+.content{
+    color: black;
+    background-color: yellowgreen;
+
+}
+
+.conclusion{
+    color: black;
+    background-color: red;
+}
+
+.footer{
+    color: white;
+    background-color: gray;
+}
