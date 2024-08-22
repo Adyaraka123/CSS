@@ -1,0 +1,23 @@
+#banner{
+    background-color: blueviolet;
+    padding: 10em 10em 10em 10em
+}
+
+#banner h1{
+    color: goldenrod;
+    
+}
+#Partner{
+    background-color: greenyellow;
+}
+
+#Partner h1{
+    color: aqua;
+    text-align: center;
+    font-size: 3em
+}
+
+footer{
+    background-color: black;
+    color: white;
+}

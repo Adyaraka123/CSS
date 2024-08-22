@@ -1,0 +1,52 @@
+section{
+        background-color: #6b9080;
+        color: #f6fff8;
+        text-align: center;
+        
+}
+
+.Align{
+        font-size: 25px;
+        text-align: center;
+        background-color: blanchedalmond;
+}
+
+.Direction{
+        font-size: 25px;
+        direction: rtl;
+        background-color: aqua;
+}
+
+.Decoration{
+        font-size: 25px;
+        text-decoration: underline;
+        background-color: rgb(165, 42, 130);
+        
+}
+
+.Transform{
+    font-size: 25px;
+    text-transform: uppercase;
+    background-color: chocolate;
+}
+
+.Spacing{
+    font-size: 25px;
+    background-color: cadetblue;
+    letter-spacing: 5mm;
+}
+
+.Overflow{
+    font-size: 25px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    background-color: crimson;
+}
+
+.Shadow{
+    font-size: 25px;
+    color: lime;
+    text-shadow: 5px 5px;
+    background-color: black;
+}
+
