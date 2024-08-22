@@ -15,12 +15,14 @@ section{
         font-size: 25px;
         direction: rtl;
         background-color: aqua;
+        color: darkblue;
 }
 
 .Decoration{
         font-size: 25px;
         text-decoration: underline;
         background-color: rgb(165, 42, 130);
+        color: greenyellow
         
 }
 
@@ -28,12 +30,14 @@ section{
     font-size: 25px;
     text-transform: uppercase;
     background-color: chocolate;
+    color: antiquewhite;
 }
 
 .Spacing{
     font-size: 25px;
     background-color: cadetblue;
     letter-spacing: 5mm;
+    color: aquamarine;
 }
 
 .Overflow{
@@ -41,6 +45,7 @@ section{
     overflow: hidden;
     text-overflow: ellipsis;
     background-color: crimson;
+    color: white;
 }
 
 .Shadow{
