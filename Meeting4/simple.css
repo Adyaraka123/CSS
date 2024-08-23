@@ -1,0 +1,27 @@
+h1{
+    background-color: rgb(220, 188, 106);
+    color: blue;
+    font-size: 36px;
+}   
+
+p{
+    color: rgb(15, 145, 102);
+    font-size: 16px;
+}
+
+
+#header{
+    padding-left: 5mm;
+    background-color: rgb(241, 233, 222);
+    
+}
+
+
+
+#Contact-info:hover {
+    color: rgb(0, 0, 0);
+    
+}
+a:hover {
+    color: red;
+}
