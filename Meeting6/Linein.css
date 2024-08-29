@@ -1,0 +1,45 @@
+.garis{
+    border-bottom: 2px red solid;
+    text-align: center;
+}
+
+
+.bordersisi{
+   border-right: 5px green solid;
+   border-left: 5px  green solid;
+   text-align: center;
+}
+
+.moreline{
+    border: 7px aqua double;
+    text-align: center;
+
+}
+
+.dotted{
+    border: 5px greenyellow dotted;
+    text-align: center;
+}
+
+.Dashed{
+    border: 4px gold dashed;
+    text-align: center;
+    }   
+.Solid{
+    border: 10px brown solid;
+    text-align: center;
+}
+
+.roundcorner{
+    background-color: yellow;
+    color: blueviolet;
+    padding: 16px;
+    border-radius: 16px;
+}
+
+.Line-Image{
+    border-left: 10px black solid;
+    border-right: 10px black solid;
+    text-align: center;
+    
+}

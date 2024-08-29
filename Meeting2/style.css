@@ -12,4 +12,23 @@ section {
 
         background-color: aqua;
         color: blue;
+        border: 3px solid;
+        font
+        
     }
+
+    .container{
+
+        display: flex;
+        background-color: blue;
+        
+    }
+    
+    .Benjamin{
+        border: 10px red solid
+    }
+
+    .Img{
+        border: 30 red solid
+    }
+   
