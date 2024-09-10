@@ -1,0 +1,59 @@
+.banner{
+    background-color: bisque;
+    overflow: auto;    
+}
+
+.banner img{
+    float: right;
+}
+
+.clear {
+    clear: right;
+    background-color: aquamarine;
+    
+}
+
+.box{
+    width: 500px;
+    height: 140px;
+    margin: 10px;
+    background-color: green;
+    color: white;
+    float : right;
+}
+
+.box-special{
+    width: 100px;
+    height: 140px;
+    margin: 10px;
+    background-color: green;
+    color: white;
+    
+}
+
+
+.my-box{
+    background-color: blueviolet ;
+    /* overflow: auto; */
+    
+}
+
+
+.kotak-1{
+    background-color: chocolate;
+    width: 200px;
+    height: 200px;
+    float: left
+    ;
+}
+
+.kotak-2{
+    background-color: brown;
+    width: 200px;
+    height: 600px;
+    float: right;
+}
+
+.clear-both{
+    clear: both;
+}

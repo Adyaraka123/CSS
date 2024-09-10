@@ -1,0 +1,24 @@
+.container-banner{
+    background-color: bisque;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+h1{
+    background-color: aqua;
+
+}
+
+h2{
+    background-color: red;
+    }
+
+p{
+    background-color: green;
+}
+
+.bungkus-element{
+    background-color: blue;
+    margin-left: 20px;
+}

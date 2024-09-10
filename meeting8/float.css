@@ -1,0 +1,25 @@
+
+
+.right{
+    background-color: rgb(155, 212, 69);
+    height: 200px;
+    float: left;
+    width: 500px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+
+.center{
+    clear: both;    
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.left{
+    background-color: rgb(155, 212, 69);
+    height: 200px;
+    width: 500px;
+    float: right;
+    margin-left: 20px;
+}
