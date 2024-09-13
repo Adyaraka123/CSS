@@ -95,6 +95,7 @@
     justify-content: space-between;
     font-family: Inter;
     align-items: center;
+    margin-bottom: 20px;
    
     
 }
@@ -131,13 +132,134 @@
     padding: 20px 30px;
     margin-left: 2px;
     border-radius: 10px;
+
+}
+.kami {
+    text-align: center;
+    font-family: Inter;
+    font-size: 34px;
+    margin-bottom: 7px;
+}
+.clien {
+    font-size: 15px;
+    text-align: center;
+}
+.baka {
+    margin-bottom: 25px;
+}
+
+.logo {
+    justify-content: space-between;
+    display: flex;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 60px;
+
+}
+
+.proyek {
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+    /* SAHAM */
+.siapa {
+    color:#717171;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+    /*  */
+.membership {
+    justify-content: space-between;
+    display: flex;
+    text-align: center;
+    margin-left: 230px;
+    margin-right: 230px;
+}
+
+.height {
+    margin-bottom: 200vh;
+}
+
+.membership {
+    display: flex;
+    margin-bottom: 40px;
+    
+}
+/* .first {
+    
+    box-shadow: 0px 2px rgba(0,0,0,0.1);
+    
+}
+
+.second {
+    box-shadow: 0px 2px rgba(0,0,0,0.1);
+}
+
+.third {
+    box-shadow: 0px 2px rgba(0,0,0,0.1); */
+
+
+.satu {
+    font-size: 20px;
+    font-family: Inter;
+    margin-top: 15px;
+    font-weight: 600;
+
+}
+.satuan {
+    font-weight: 400;
+    font-family: Inter;
+    color: #717171;
+    margin-bottom: 20px;
+}
+
+.kedua {
+    font-size: 20px;
+    font-family: Inter;
+    margin-top: 15px;
+    font-weight: 600;
+}
+.duaan {
+    font-weight: 400;
+    font-family: Inter;
+    color: #717171;
+    margin-bottom: 20px;
+}
+
+.tiga {
+    font-size: 20px;
+    font-family: Inter;
+    margin-top: 15px;
+    font-weight: 600;
+}
+
+.tigaan {
+    font-weight: 400;
+    font-family: Inter;
+    color: #717171;
+    margin-bottom: 20px;
 }
 
 
-/* .container-banner img{
-    background-color: crimson; 
-} */
+    /* CONTAINER MID (Hal yang terlihat selama tiga tahun di Abudzar )*/
+.mid-art {
+    display: flex;
+    justify-content: space-between;
+}
+.mid-image {
 
-.height{
-    height: 200vh;
+    margin-left: 200px;
+
+    
+}
+.mid-image img {
+    width: 380px;
+}
+
+.mid-first {
+    font-size: 30px;
+    
+    
 }

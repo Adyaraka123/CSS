@@ -1,0 +1,49 @@
+a {
+    background-color: aquamarine;
+    width: 100px;
+    margin-top : 100px;
+    margin-left: 100px;
+}
+
+div {
+    background-color: bisque;
+    /* width: 100px;
+    margin-top: 10px;
+    margin-left: 10px; */
+}
+
+p {
+    background-color: greenyellow;
+}
+
+span {
+    background-color: green;
+}
+
+label {
+    background-color: orange;
+    /* width: 100px; */
+    display: block;
+}
+h1 {
+    background-color: red;
+    display: inline-block;
+    width: 100px;
+}
+
+h2 {
+    background-color: yellow;
+    display: none;
+}
+
+.visible {
+    background-color: coral;
+}
+
+.visible-beda {
+    visibility: hidden;
+}
+
+.visible-none {
+    display: none;
+}
