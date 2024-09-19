@@ -249,17 +249,56 @@
     justify-content: space-between;
 }
 .mid-image {
-
     margin-left: 200px;
 
     
 }
 .mid-image img {
-    width: 380px;
+    width: 400px;
 }
 
 .mid-first {
     font-size: 30px;
+    color: #4D4D4D;
+    margin-bottom: 20px;
+    font-family: Inter;
     
+    
+}
+
+.mid-deks {
+    color: #4D4D4D;
+    font-weight: 350;
+    margin-right: 220px;
+    margin-bottom: 25px;
+}
+
+.learn-more {
+    background-color: #FAA613;
+    border: none;
+    color: white;
+    font-size: 18px;
+    border-radius: 4px;
+    padding: 10px;
+    height: 60px;
+    width: 150px;
+    margin-bottom: 70px;
+
+}
+
+
+/* Membatu Santri mengupgrade dirinya  */
+.santri-parent {
+  
+    margin-left: 200px;
+}
+
+.santri-kiri {
+    font-size: 30px;
+    margin-bottom: 15px;
+    
+}
+.santri-parent span{
+    color:#FAA613 ;
     
 }
