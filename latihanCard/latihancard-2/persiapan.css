@@ -1,0 +1,20 @@
+.latihan-2 {
+    background-color: bisque;
+}
+
+.container {
+    background-color: aquamarine;
+    margin-left: 100px ;
+    margin-right: 100px;
+}
+
+.card {
+    background-color: blueviolet;
+    width: 20px;
+}
+.card img {
+    width : 300%;
+}
+.card  p {
+    font-size: px;
+}
