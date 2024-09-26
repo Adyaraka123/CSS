@@ -3,7 +3,8 @@
     margin-left: 100px;
     margin-top: 70px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-    margin-right: 1000px
+    margin-right: 1000px;
+    
     
   
     
@@ -29,21 +30,23 @@
     font-family: "Poppins";
     font-weight: 500;
     font-size: 18px;
+    margin-right: 80px;
 }
 .parent-child-text {
-    margin-left: 20px;
+    margin-left: 10px;
 }
 .behindthatplace  {
     margin-top: -20px;
     font-weight: 200px;
     font-family: "Poppins";
     font-size: 13px;
+    margin-left: 20px;
 
 }
 
 .botom {
    margin-top: 22px;
-   margin-left: 100px;
+   
 }
 
     /* IMAGE */
@@ -68,6 +71,8 @@
 
     .wahai {
         margin-left: 20px;
+        overflow: scroll;
+        height: 100px;
 
 font-weight: 300;
 font-family: "Poppins";    }
@@ -124,3 +129,121 @@ p {
     color: white;
     margin-right: 20px;
 }
+
+
+
+
+
+
+
+
+/* CARD 3 */
+.third-parent {
+    margin-left: 100px;
+    margin-top: 70px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-right: 1000px;
+    border-radius: 20px;
+    
+    
+  
+    
+}
+
+.third-child {
+    display: flex;
+    margin-left: 20px;
+ 
+   
+
+ 
+}
+.logo-third img {
+    margin-top: 10px;
+    width:60px;
+    height: 60px;
+    border-radius: 100px;
+}
+    
+
+.third-child p  {
+  
+    font-family: "Poppins";
+    font-weight: 500;
+    font-size: 18px;
+    margin-right: 80px;
+}
+.third-child-text {
+    margin-left: 10px;
+}
+.behindthatchild  {
+    margin-top: -20px;
+    font-weight: 200px;
+    font-family: "Poppins";
+    font-size: 13px;
+    margin-left: 20px;
+
+}
+
+.above {
+   margin-top: 22px;
+   
+}
+
+    /* IMAGE */
+    .image-parent-child img {
+        height: 300px;
+        width: 405px;
+        margin-bottom :5px ;
+       
+        
+    }   
+
+.third-button {
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+    
+   
+    
+}
+.third-button img {
+    width: 35px;
+    background-color: white;
+    margin-bottom:10px;
+    margin-right: 20px;
+    margin-left:  24px;
+
+}
+
+.komen {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 20px;
+    padding-bottom: 25px;
+}
+ 
+
+.image-avatar {
+   
+    width: 60px;
+    
+}
+.image-avatar img {
+    width: 100%;
+    margin-right: 20px;
+    
+}
+input {
+    height: 40px;
+    border-radius: 50px;
+    width: 250px;
+    padding-left: 60px;
+    /* margin-right: 40px; */
+    border :solid #E0E0E0;
+    
+}
+/* wqdqw */
